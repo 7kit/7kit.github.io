@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/logo0.png" rel="icon">
-  <link href="assets/img/logo0.png" rel="apple-touch-icon">
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i" rel="stylesheet">
@@ -152,7 +152,7 @@
               <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="Crème de peau"><i class="icofont-plus-circle"></i></a>
-                <a href="#" title="Plus de détails"><i class="icofont-link"></i></a>
+                <a href="http://localhost/TOUFEIN_A/public/home#payer" title="Acheter"><i class="icofont-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>Crème de peau</h4>
@@ -166,7 +166,7 @@
               <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Jus d'orange !"><i class="icofont-plus-circle"></i></a>
-                <a href="#" title="Plus de détails"><i class="icofont-link"></i></a>
+                <a href="#" title="Acheter"><i class="icofont-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>Jus d'orange !</h4>
@@ -180,7 +180,7 @@
               <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="Crème contre coup de soleil"><i class="icofont-plus-circle"></i></a>
-                <a href="#" title="Plus de détails"><i class="icofont-link"></i></a>
+                <a href="#" title="Acheter"><i class="icofont-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>Crème contre coup de soleil</h4>
@@ -194,7 +194,7 @@
               <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Lotion à base d'Avocat"><i class="icofont-plus-circle"></i></a>
-                <a href="#" title="Plus de détails"><i class="icofont-link"></i></a>
+                <a href="#" title="Acheter"><i class="icofont-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>Lotion à base d'Avocat</h4>
@@ -208,7 +208,7 @@
               <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Apéritif à base de graines de Nigelle"><i class="icofont-plus-circle"></i></a>
-                <a href="#" title="Plus de détails"><i class="icofont-link"></i></a>
+                <a href="#" title="Acheter"><i class="icofont-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>Apéritif à base de graines de Nigelle</h4>
@@ -222,7 +222,7 @@
               <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="Crème à base de coco"><i class="icofont-plus-circle"></i></a>
-                <a href="#" title="Plus de détails"><i class="icofont-link"></i></a>
+                <a href="#" title="Acheter"><i class="icofont-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>Crème à base de coco</h4>
@@ -236,7 +236,7 @@
               <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Eau pure Orangia"><i class="icofont-plus-circle"></i></a>
-                <a href="#" title="Plus de détails"><i class="icofont-link"></i></a>
+                <a href="#" title="Acheter"><i class="icofont-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>Eau pure Orangia</h4>
@@ -250,7 +250,7 @@
               <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Lotion à base de Blé"><i class="icofont-plus-circle"></i></a>
-                <a href="#" title="Plus de détails"><i class="icofont-link"></i></a>
+                <a href="#" title="Acheter"><i class="icofont-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>Lotion à base de Blé</h4>
@@ -264,7 +264,7 @@
               <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Cookies"><i class="icofont-plus-circle"></i></a>
-                <a href="#" title="Plus de détails"><i class="icofont-link"></i></a>
+                <a href="#" title="Acheter"><i class="icofont-link"></i></a>
               </div>
               <div class="portfolio-info">
                 <h4>Cookies</h4>
