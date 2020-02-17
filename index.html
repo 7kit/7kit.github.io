@@ -78,7 +78,7 @@
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1">
           <h1>Acheter aisément les produits que vous voulez</h1>
           <h2>Et Oui, car nous prenons en compte tout le reste jusqu'à la livraison</h2>
-          <a href="#about" class="btn-get-started scrollto">Lancez-vous</a>
+          <a href="#portfolio" class="btn-get-started scrollto">Lancez-vous</a>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img">
           <img src="assets/img/hero-img0.svg" class="img-fluid animated" alt="">
@@ -419,9 +419,9 @@
             <h3>Marché</h3>
             <p>
               Rue Togomé <br>
-              Adéwui, Immeuble Mangouani 54<br>
+              Adéwui, Immeuble Exemple 54<br>
               Togo <br><br>
-              <strong>Phone:</strong> +228 91 64 66 23<br>
+              <strong>Phone:</strong> +228 97 44 04 76<br>
               <strong>Email:</strong> info.marche@marche.com<br>
             </p>
           </div>
@@ -463,11 +463,11 @@
 
     <div class="container py-4">
       <div class="copyright">
-        &copy; Copyright <strong><span>Baruc</span></strong>. Tous droits réservés
+        &copy; Copyright <strong><span>Job Info Candidature</span></strong>. Tous droits réservés
       </div>
       <div class="credits">
         
-        Designed by <a href="">Baruc Arsène</a>
+        Designed by <a href="">Job Info Candidature</a>
       </div>
     </div>
   </footer><!-- Fin Footer -->
